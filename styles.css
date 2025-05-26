@@ -16,7 +16,7 @@ body {
   margin: 0 auto;
 }
 h1 {
-  font-size: 27px;
+  font-size: 100%;
   text-decoration: underline;
 }
 form {
